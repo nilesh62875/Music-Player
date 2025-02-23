@@ -65,7 +65,8 @@ every time you open the website, random song is played.
 
 ![image](https://github.com/user-attachments/assets/8d166639-f43b-4469-9844-5c9cc1169f47) 
 
-**Live Demo :**
+**Live Demo :** 
+https://blowingmusic-player.netlify.app/
 
 
 
